@@ -58,7 +58,7 @@ const messages = [
     "sure na po ba??",
     "like sure na sure na?",
     "lovee please...",
-    "pag isipan mo munang mabuti]",
+    "pag isipan mo munang mabuti",
     "If you say no, I will be really sad...",
     "I will be very sad...",
     "I will be very very very sad...",
